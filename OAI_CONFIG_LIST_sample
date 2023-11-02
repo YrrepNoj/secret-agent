@@ -1,0 +1,7 @@
+// Please modify the content, remove this comment and rename this file to OAI_CONFIG_LIST to run the sample code.
+[
+    {
+        "model": "gpt-4",
+        "api_key": "<your OpenAI API key here>"
+    }
+]
